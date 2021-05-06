@@ -1,2 +1,2 @@
-"tämä on lapion toinen osa"
+muutetaan tätä riviä "tämä on lapion toinen osa"
 toinen rivi tekstiä
