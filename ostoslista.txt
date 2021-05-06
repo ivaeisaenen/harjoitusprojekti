@@ -4,7 +4,7 @@ Meillä esimerkiksi perjantailta:
 
 1l Valion rasvatonta maitoa (maidon täytyy olla suomalaista)
 
-avokadoja
+avokaadoja monta (muutettu githubissa)
 
 tomaattia
 
@@ -33,5 +33,8 @@ aurinkokuivattuja tomaatteja
 tummaa suklaata
 
 1 kpl vanilijavanukas
+<<<<<<< HEAD
 
 palsternakkaa (lisätty lokaalisti)
+=======
+>>>>>>> d164d3fa04a89e4d4a081b863bd0ec7cfb1ee8ab
